@@ -1,0 +1,21 @@
+{
+  "name": "bmap-offline",
+  "version": "1.0.0",
+  "description": "Baidu Map JavaScript API offline components",
+  "main": "main.js",
+  "keywords": [
+    "Electron",
+    "quick",
+    "start",
+    "tutorial"
+  ],
+  "author": "kvenux",
+  "license": "GPL",
+  "bugs": {
+    "url": "https://github.com/kvenux/bmap-offline/issues"
+  },
+  "homepage": "https://github.com/kvenux/bmap-offline",
+  "devDependencies": {
+    "request": "^2.81.0"
+  }
+}
