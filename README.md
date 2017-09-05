@@ -20,6 +20,8 @@ Replace with your key in js/apiv2.0.min.js.
 window.BMAP_AUTHENTIC_KEY = "YOUR_KEY";
 ```
 
+To run this example:
+
 ```bash
 npm install
 electron .
